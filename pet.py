@@ -117,7 +117,7 @@ idle_to_sleep_num = [13, 14]
 sleep_to_idle_num = [15, 16]
 fish_num = [17]
 
-impath = 'C:\\Users\\riccardo.benetti\\Documents\\pet\\sprites\\'
+impath = 'sprites\\'
 
 idle = loadGif(impath + 'idle_duck.gif')[:4]
 idle_sprite = spriteGif(idle, 150)
